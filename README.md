@@ -28,7 +28,7 @@ For coin segmentation run the coin_detection_segmentation.py (Make sure to chang
 
     python3 coin_detection_segmentation.py
 
-For the panorama stitching part run the panorama_creation.py script ( Make sure that the images selected are placed in the "panoImages" folder in the main directory), The results will get saved in a directory called "stitching_output" that'll be created along the way. If not enough keypoints are found, the stitched image does not get created.
+For the panorama stitching part run the panorama_creation.py script ( Make sure that the images selected are placed in the "panoImage" folder in the main directory), The results will get saved in a directory called "stitching_output" that'll be created along the way. If not enough keypoints are found, the stitched image does not get created.
 
     python3 panorama_creation.py
 
